@@ -2,7 +2,7 @@ Hi 👋, I'm Bekir
 # A backend developer from İstanbul
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Net Core,Angular Js,Pyhton</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>C#,Net Core,Angular Js</strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:bekir.sancak09@gmail.com">bekir.sancak09@gmail.com</a></strong></p>
